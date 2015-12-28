@@ -9,5 +9,5 @@ $ npm test
 
 To run tests:
 ```sh
-$ npm doc
+$ npm jsdoc
 ```
