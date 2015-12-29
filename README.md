@@ -1,5 +1,5 @@
 # WebTemplate
-Template project for web application
+The template project for web application
 
 ### Usage
 To run tests:
@@ -7,7 +7,7 @@ To run tests:
 $ npm test
 ```
 
-To run tests:
+To run jsdoc:
 ```sh
-$ npm jsdoc
+$ npm run jsdoc
 ```
